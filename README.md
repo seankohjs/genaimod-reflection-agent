@@ -2,7 +2,7 @@
 
 生成式 AI 課程的 **Reflection Agent**：以三個獨立步驟產生、審查及修訂英文求職信，Gradio 顯示每個階段。
 
-**[Open in Colab](https://colab.research.google.com/github/seankohjs/genaimod-reflection-agent/blob/4573c05076769592615c14e7c781c51623eb7165/Week_08_ApplyReflect.ipynb)**
+**[Open in Colab](https://colab.research.google.com/github/seankohjs/genaimod-reflection-agent/blob/9dbb09fb8bec48be87119807306dd574cd08337e/Week_08_ApplyReflect.ipynb)**
 
 1. 儲存副本到 Google Drive。
 2. 在 Colab Secrets 新增／啟用 **`Groq`**，使用自己的 API key。
